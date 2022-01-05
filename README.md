@@ -1,2 +1,2 @@
-# lebron_bot
-Twitter Bot Announcing Lebron Milestones
+# Lebron Milestone Bot
+Twitter Bot Announcing Lebron Milestones, just points rn
